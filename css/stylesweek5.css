@@ -1,0 +1,51 @@
+body {
+	background-color: #d0efff;
+	width: 800px;
+	margin: auto;
+}
+
+h1 {
+	color: white;
+	background-color: #03254c;
+	font-family: Verdana, sans-serif;
+}
+
+h2 {
+	color: white;
+	background-color: #03254c;
+	font-family: Verdana, sans-serif;
+}
+
+h3 {
+	color: white;
+	background-color: #03254c;
+	font-family: Verdana, sans-serif;
+}
+
+p {
+	color: #1167b1;
+	font-size: 1em;
+}
+
+li {
+	color: #1167b1;
+}
+
+tr:nth-child(odd)
+{
+	background: #FFF;
+}
+
+th {
+	color: white;
+	background-color: #03254c;
+}
+
+td {
+	color: #1167b1;
+}
+
+.tablehead {
+	background-color: #05337d;
+}
+
